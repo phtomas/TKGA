@@ -12,3 +12,7 @@ A campanha PUB03C produziu duas seleções independentes, disponíveis aqui **co
 Os ZIPs são seleções exatas da campanha PUB03C, conferidas por CRC ZIP e SHA-256 por arquivo. A árvore extraída no ZIP contém MANIFESTO.csv, SHA256SUMS.txt, README, arquivos de licença e ferramentas de reprodução. A licença dos códigos próprios do Fuse é GPL-2.0-or-later e do jogo GPL-3.0-or-later; documentação e arte original separada são CC BY-SA 4.0. Preservar o crédito da criação original e dos titulares upstream.
 
 [Política de atribuição](../POLITICA_COPYLEFT.md).
+
+## Vídeo real posterior à PUB03C
+
+A vitrine do [Resgate Aéreo](../resgate-aereo-preview/README.md) agora utiliza um vídeo real filmado pelo autor (4,4 segundos), com MP4, GIF e fotograma extraídos diretamente da gravação. O GIF de fixture anterior saiu da árvore pública externa ao ZIP; o ZIP técnico da PUB03C e seus hashes históricos não foram modificados.
