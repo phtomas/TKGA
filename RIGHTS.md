@@ -30,3 +30,7 @@ A documentação e a arquitetura resultam do projeto coordenado por **José Albu
 A publicação documenta resultados **limitados aos respectivos ambientes de teste**; não constitui certificação elétrica nem autorização para conectar hardware.
 
 Para contribuições externas, envie conteúdo de sua autoria ou para o qual possua direito de distribuição, identificando licença e proveniência.
+
+## Política para novas versões
+
+Em 16/11/2026, o responsável definiu uma diretriz para **futuras entregas próprias**: permitir uso, adaptação e comercialização, preservando a atribuição e o copyleft. Consulte [POLITICA_COPYLEFT.md](POLITICA_COPYLEFT.md). **A diretriz não altera retroativamente as licenças MIT/CC BY 4.0 desta prévia.**
