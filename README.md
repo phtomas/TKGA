@@ -52,3 +52,5 @@ Não distribuímos aqui o Core PC10 completo, o Fuse modificado, RTL histórico,
 - Contribuições e correções: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 O projeto é uma iniciativa aberta à comunidade. Para alegar compatibilidade, identifique a ABI, o backend e os testes efetivamente executados.
+
+> **Próximas versões:** o projeto adotou política de crédito obrigatório e licenças copyleft para novas contribuições próprias, conforme [POLITICA_COPYLEFT.md](POLITICA_COPYLEFT.md). As licenças originais desta Developer Preview 0.1 continuam válidas.
