@@ -1,0 +1,37 @@
+# TKGA / TKX — Developer Preview 0.1
+# Manifesto público de conteúdo — 15/11/2026
+#
+# Origem: seleção privada TKGA-PUB-02 (16 arquivos, incluindo o manifesto).
+# Documentos e SDK transportados da seleção; README e RIGHTS foram
+# deliberadamente atualizados na publicação para indicar licenças,
+# atribuição, escopo de evidência e autorização pública.
+# CREDITS e LICENSE-CODE foram acrescentados na PUB-03.
+#
+# Este manifesto lista caminhos publicados, NÃO declara que os hashes
+# históricos do staging se aplicam aos textos alterados. Para verificar
+# a revisão pública, consulte o commit/árvore Git do repositório.
+
+BUILD.md
+CMakeLists.txt
+CONTRIBUTING.md
+README.md
+RIGHTS.md
+docs/ARQUITETURA.md
+docs/COMANDOS.md
+docs/MANUAL.md
+docs/REGISTROS.md
+docs/RESULTADOS.md
+docs/ROADMAP.md
+examples/fence.c
+sdk/tkga_packet.c
+sdk/tkga_packet.h
+tests/packet_test.c
+MANIFESTO.txt
+
+# Acréscimos PUB-03:
+CREDITS.md
+LICENSE-CODE
+
+# Excluídos deliberadamente:
+# Core PC10 completo, Fuse-TKGA, RTL, bitstreams, ROMs, jogos/arte,
+# Resgate Aéreo, fontes do Joãozinho e artefatos de auditoria privados.
