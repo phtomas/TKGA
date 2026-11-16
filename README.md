@@ -42,7 +42,15 @@ Relatos de vídeo LEGACY, incluindo jogos observados na bancada, não equivalem 
 
 ## O que está propositalmente fora
 
-Não distribuímos aqui o Core PC10 completo, o Fuse modificado, RTL histórico, bitstreams, ROMs, Resgate Aéreo nem fontes/assets de jogos de terceiros. Cada um exige avaliação independente de titularidade, dependências, licença e/ou segurança.
+A **Developer Preview 0.1 original** não distribuía o Core PC10, o Fuse modificado nem o Resgate Aéreo. Os recortes independentes liberados na **PUB03C** agora estão disponíveis nos pacotes abaixo, com suas próprias licenças e provas. Continuam de fora o RTL histórico, bitstreams, ROMs e recursos de terceiros sem autorização.
+
+## Novidade: fontes do Fuse-TKGA e jogo Resgate Aéreo (PUB03C)
+
+- **[Fuse-TKGA PUB03C — código-fonte e patches](fuse-tkga/README.md)** para reconstruir o emulador experimental com Core PC10.
+- **[Resgate Aéreo PUB03C — TAP e mídia real](resgate-aereo-preview/README.md)** para experimentar o jogo na extensão, com fontes para reconstruí-lo.
+- [Notas de lançamento e provas](publicacoes/PUB03C.md).
+
+As licenças copyleft dos novos pacotes são próprias e **não alteram retroativamente** as da Developer Preview 0.1 inicial.
 
 ## Licença, créditos e colaboração
 
