@@ -16,3 +16,7 @@ Os ZIPs são seleções exatas da campanha PUB03C, conferidas por CRC ZIP e SHA-
 ## Vídeo real posterior à PUB03C
 
 A vitrine do [Resgate Aéreo](../resgate-aereo-preview/README.md) agora utiliza um vídeo real filmado pelo autor (4,4 segundos), com MP4, GIF e fotograma extraídos diretamente da gravação. O GIF de fixture anterior saiu da árvore pública externa ao ZIP; o ZIP técnico da PUB03C e seus hashes históricos não foram modificados.
+
+## Segundo vídeo real — gameplay prolongado (16/11/2026)
+
+A vitrine do Resgate Aéreo agora inclui uma [segunda filmagem de gameplay, 28,7 segundos](../resgate-aereo-preview/PUB03C/media/gameplay-real-02.mp4), captada pelo autor na tela do Fuse. A edição remove áudio e bordas externas; não altera o conteúdo do jogo. Consulte a [proveniência e os hashes](../resgate-aereo-preview/PUB03C/media/VIDEO_REAL_02_PROVENIENCIA.md). A primeira filmagem, o ZIP técnico PUB03C e seus hashes permanecem intactos. Esta evidência audiovisual não substitui ensaio de teclado humano ou TK físico.

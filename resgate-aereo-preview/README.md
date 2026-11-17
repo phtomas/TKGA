@@ -6,6 +6,8 @@
 
 **[Assistir ao vídeo real editado (MP4, 4,4 s)](./PUB03C/media/gameplay-real.mp4)** · [GIF derivado da mesma filmagem](./PUB03C/media/gameplay-real.gif)
 
+**[Segundo vídeo real de gameplay — 28,7 s](./PUB03C/media/gameplay-real-02.mp4)** (gravação de 16/11/2026, edição sem áudio; [proveniência](./PUB03C/media/VIDEO_REAL_02_PROVENIENCIA.md)).
+
 A mídia acima foi recortada de um vídeo que o autor enviou em 16/11/2026, filmando o jogo na tela. Não há quadros inventados, redesenho de sprites ou simulação artística. Trata-se de filmagem do monitor, não captura direta do framebuffer; o áudio foi retirado do MP4 editado.
 
 ## Jogue e explore
@@ -13,6 +15,7 @@ A mídia acima foi recortada de um vídeo que o autor enviou em 16/11/2026, film
 - [Baixar o jogo TAP — 22.227 bytes](./PUB03C/resgate-aereo-pub03b.tap)
 - [Baixar pacote completo: fontes, geradores, arte, TAP, mídia e testes](./PUB03C/RESGATE_AEREO_PUB03C_PREVIEW.zip)
 - [Ver gameplay filmado — MP4](./PUB03C/media/gameplay-real.mp4)
+- [Ver segundo gameplay filmado — MP4, 28,7 s](./PUB03C/media/gameplay-real-02.mp4)
 - [Ver GIF compacto extraído do mesmo vídeo](./PUB03C/media/gameplay-real.gif)
 - [Ver fotograma do vídeo](./PUB03C/media/gameplay-real.png)
 
@@ -38,12 +41,12 @@ Pouse à direita do hangar para completar a entrega.
 
 - Fonte, ferramentas e assets independentes foram reconstruídos em diretórios limpos, produzindo o **mesmo TAP byte a byte**.
 - Boot e capa foram ensaiados no Fuse compilado da seleção pública.
-- Voo, içamento, caminhada, entrega e reset foram exercitados por **automação** na campanha PUB03B; as evidências dessa campanha são automatizadas. O novo vídeo foi fornecido pelo autor e mostra o jogo no monitor; não deve ser confundido com uma aceitação sistemática de controles.
+- Voo, içamento, caminhada, entrega e reset foram exercitados por **automação** na campanha PUB03B; as evidências dessa campanha são automatizadas. O novo vídeo foi fornecido pelo autor e mostra o jogo no monitor; não deve ser confundido com uma aceitação sistemática de controles. A segunda filmagem real, de 28,7 s, também demonstra apenas o jogo no emulador Fuse, não testes físicos homologados.
 - **Teclado humano e execução no TK físico: NOT_RUN**. Portanto, esta é uma prévia jogável *experimental*, não homologada.
 
 ## Licenças e créditos
 
-Filme enviado pelo autor e derivados: crédito **José Albuquerque**. O GIF anterior da fixture foi retirado da vitrine (a cópia no ZIP histórico permanece intacta). [Proveniência desta nova mídia](./PUB03C/media/VIDEO_REAL_PROVENIENCIA.md).
+Filme enviado pelo autor e derivados: crédito **José Albuquerque**. O GIF anterior da fixture foi retirado da vitrine (a cópia no ZIP histórico permanece intacta). [Proveniência desta nova mídia](./PUB03C/media/VIDEO_REAL_PROVENIENCIA.md). [Proveniência do segundo vídeo](./PUB03C/media/VIDEO_REAL_02_PROVENIENCIA.md).
 
 Código próprio: **GPL-3.0-or-later**. Arte independente isolada, capturas e documentação original: **CC BY-SA 4.0**, com crédito a José Albuquerque. Adaptação integrada no TAP sob GPLv3, conforme `LICENSES.md` e `CREDITS.md` dentro do ZIP. Outras ferramentas e emuladores preservam os respectivos titulares; ROM comercial e arte RA01 não estão incluídas.
 
